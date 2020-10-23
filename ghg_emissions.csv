@@ -1,0 +1,186 @@
+index,Country,Emissions
+0,Luxembourg,41.82
+1,Qatar,33.17
+2,Kuwait,22.72
+3,Brunei,22.63
+4,Singapore,21.87
+5,Saudi Arabia,19.29
+6,United States,17.75
+7,United Arab Emirates,15.82
+8,Canada,15.82
+9,Belgium,15.61
+10,Australia,15.59
+11,Oman,15.44
+12,Switzerland,14.25
+13,Bahrain,14.05
+14,Estonia,13.29
+15,Trinidad and Tobago,13.1
+16,Kazakhstan,12.92
+17,Finland,12.65
+18,South Korea,12.5
+19,Malta,11.09
+20,Japan,11.06
+21,Germany,10.84
+22,Austria,10.53
+23,Israel,10.14
+24,Czech Republic,10.01
+25,Russia,9.59
+26,Norway,9.28
+27,Denmark,9.22
+28,Ireland,9.14
+29,Netherlands,8.96
+30,Mongolia,8.62
+31,Slovakia,8.59
+32,United Kingdom,8.46
+33,New Zealand,8.42
+34,Malaysia,8.27
+35,Slovenia,8.02
+36,Lithuania,7.88
+37,Poland,7.81
+38,Italy,7.68
+39,Belarus,7.21
+40,Sweden,7.14
+41,Iran,7.14
+42,France,6.93
+43,Cyprus,6.61
+44,Hungary,6.56
+45,China,6.27
+46,Spain,6.21
+47,Latvia,6.2
+48,Namibia,6.14
+49,South Africa,6.0
+50,Botswana,6.0
+51,Turkey,5.69
+52,Greece,5.67
+53,Bulgaria,5.4
+54,Ukraine,5.39
+55,Portugal,5.28
+56,Chile,5.15
+57,World,4.78
+58,Panama,4.72
+59,Argentina,4.71
+60,Venezuela,4.7
+61,Thailand,4.51
+62,Croatia,4.46
+63,Azerbaijan,4.3
+64,Mexico,4.13
+65,Romania,3.75
+66,Jordan,3.4
+67,Ecuador,2.86
+68,Brazil,2.52
+69,Egypt,2.37
+70,Peru,2.31
+71,Vietnam,2.23
+72,Mauritius,2.18
+73,Colombia,2.06
+74,Uruguay,2.04
+75,Indonesia,1.93
+76,Morocco,1.83
+77,India,1.67
+78,Kyrgyzstan,1.59
+79,Sri Lanka,1.59
+80,Georgia,1.59
+81,Philippines,1.38
+82,Costa Rica,1.34
+83,Jamaica,1.1
+84,Pakistan,1.06
+85,Tunisia,1.02
+86,Laos,0.98
+87,Albania,0.96
+88,Cambodia,0.95
+89,Armenia,0.93
+90,Dominican Republic,0.86
+91,Paraguay,0.78
+92,Togo,0.74
+93,Bangladesh,0.67
+94,El Salvador,0.57
+95,Nepal,0.53
+96,Honduras,0.5
+97,Guatemala,0.49
+98,Bolivia,0.47
+99,Benin,0.44
+100,Ghana,0.39
+101,Mozambique,0.37
+102,Nicaragua,0.37
+103,Senegal,0.33
+104,Kenya,0.3
+105,Nigeria,0.29
+106,Zimbabwe,0.29
+107,Ivory Coast,0.25
+108,Tanzania,0.2
+109,Cameroon,0.19
+110,Malawi,0.11
+111,Ethiopia,0.1
+112,Madagascar,0.09
+113,Burkina Faso,0.06
+114,Guinea,0.02
+115,Rwanda,0.01
+116,Algeria,
+117,Moldova,
+118,Mauritania,
+119,Maldives,
+120,Fiji,
+121,Zambia,
+122,Syria,
+123,Dominica,
+124,Tonga,
+125,Gambia,
+126,Gabon,
+127,Cuba,
+128,Sudan,
+129,Nauru,
+130,Liberia,
+131,Lebanon,
+132,Guyana,
+133,Montenegro,
+134,Angola,
+135,Cook Islands,
+136,Suriname,
+137,Saint Lucia,
+138,Serbia,
+139,Uzbekistan,
+140,Samoa,
+141,Vanuatu,
+142,North Korea,
+143,Saint Vincent and the Grenadines,
+144,Comoros,
+145,Democratic Republic of the Congo,
+146,Haiti,
+147,Kiribati,
+148,Uganda,
+149,Sierra Leone,
+150,Solomon Islands,
+151,São Tomé and Príncipe,
+152,Cape Verde,
+153,Guinea-Bissau,
+154,Tajikistan,
+155,Seychelles,
+156,Yemen,
+157,Eritrea,
+158,Niger,
+159,Republic of the Congo,
+160,Djibouti,
+161,Mali,
+162,Bhutan,
+163,Myanmar,
+164,Lesotho,
+165,Papua New Guinea,
+166,Chad,
+167,Eswatini,
+168,Afghanistan,
+169,Bosnia and Herzegovina,
+170,Burundi,
+171,Equatorial Guinea,
+172,Libya,
+173,Turkmenistan,
+174,Grenada,
+175,Palau,
+176,Iceland,
+177,Central African Republic,
+178,Saint Kitts and Nevis,
+179,Belize,
+180,Niue,
+181,Iraq,
+182,Barbados,
+183,Antigua and Barbuda,
+184,Bahamas,

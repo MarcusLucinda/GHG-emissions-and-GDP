@@ -1,0 +1,156 @@
+index,Country,GDP
+0,Finland,5.16
+1,Iceland,5.13
+2,Russia,4.19
+3,Estonia,2.59
+4,Norway,2.49
+5,Canada,2.47
+6,Sweden,2.1
+7,Kazakhstan,2.08
+8,Latvia,1.9
+9,Kyrgyzstan,1.7
+10,Belarus,1.7
+11,Lithuania,1.57
+12,Mongolia,1.41
+13,Switzerland,1.21
+14,Austria,1.03
+15,Czech Republic,1.02
+16,Slovakia,0.91
+17,Armenia,0.9
+18,Poland,0.88
+19,Denmark,0.86
+20,Ukraine,0.82
+21,Slovenia,0.8
+22,Germany,0.63
+23,Luxembourg,0.55
+24,Romania,0.5
+25,Moldova,0.49
+26,Ireland,0.47
+27,Spain,0.46
+28,Bosnia and Herzegovina,0.44
+29,United Kingdom,0.42
+30,Chile,0.32
+31,Netherlands,0.31
+32,Serbia,0.31
+33,Belgium,0.3
+34,Bulgaria,0.3
+35,Hungary,0.25
+36,France,0.1
+37,Georgia,0.08
+38,Lesotho,-0.02
+39,Croatia,-0.09
+40,New Zealand,-0.09
+41,Tajikistan,-0.15
+42,Bhutan,-0.16
+43,Turkey,-0.17
+44,World,-0.2
+45,Azerbaijan,-0.24
+46,Italy,-0.27
+47,Albania,-0.33
+48,Japan,-0.35
+49,Afghanistan,-0.36
+50,United States,-0.36
+51,Lebanon,-0.4
+52,Portugal,-0.41
+53,China,-0.42
+54,Uzbekistan,-0.45
+55,Greece,-0.51
+56,Peru,-0.51
+57,Argentina,-0.53
+58,Australia,-0.53
+59,Uruguay,-0.55
+60,Iran,-0.58
+61,Turkmenistan,-0.6
+62,South Africa,-0.66
+63,Morocco,-0.67
+64,Cape Verde,-0.67
+65,Algeria,-0.67
+66,Ecuador,-0.69
+67,Bolivia,-0.69
+68,Jordan,-0.72
+69,Syria,-0.72
+70,Kenya,-0.73
+71,Madagascar,-0.73
+72,Mexico,-0.73
+73,Fiji,-0.73
+74,Ethiopia,-0.74
+75,Cyprus,-0.74
+76,Papua New Guinea,-0.75
+77,Mauritius,-0.76
+78,Eswatini,-0.76
+79,Tunisia,-0.76
+80,Colombia,-0.77
+81,Rwanda,-0.78
+82,Costa Rica,-0.79
+83,Burundi,-0.79
+84,Mauritania,-0.8
+85,Niger,-0.8
+86,Trinidad and Tobago,-0.82
+87,Israel,-0.82
+88,Guatemala,-0.83
+89,Uganda,-0.83
+90,Mali,-0.83
+91,Bahamas,-0.83
+92,Brazil,-0.83
+93,Zimbabwe,-0.84
+94,Paraguay,-0.84
+95,Philippines,-0.84
+96,Libya,-0.84
+97,Tanzania,-0.84
+98,Egypt,-0.84
+99,Cuba,-0.84
+100,Haiti,-0.85
+101,Equatorial Guinea,-0.85
+102,Djibouti,-0.85
+103,Panama,-0.85
+104,Angola,-0.85
+105,Nepal,-0.85
+106,El Salvador,-0.85
+107,Indonesia,-0.85
+108,Gabon,-0.86
+109,Sri Lanka,-0.86
+110,Dominican Republic,-0.86
+111,Cambodia,-0.86
+112,Laos,-0.86
+113,Chad,-0.86
+114,Sudan,-0.87
+115,Burkina Faso,-0.87
+116,Malawi,-0.87
+117,Zambia,-0.87
+118,Malaysia,-0.87
+119,Eritrea,-0.87
+120,Cameroon,-0.88
+121,Democratic Republic of the Congo,-0.88
+122,Brunei,-0.88
+123,Yemen,-0.88
+124,Honduras,-0.88
+125,Liberia,-0.88
+126,Vietnam,-0.88
+127,Mozambique,-0.89
+128,Namibia,-0.89
+129,Guinea-Bissau,-0.89
+130,Senegal,-0.89
+131,Republic of the Congo,-0.89
+132,Togo,-0.9
+133,Ghana,-0.9
+134,Thailand,-0.9
+135,Botswana,-0.9
+136,Bangladesh,-0.9
+137,Venezuela,-0.91
+138,Ivory Coast,-0.91
+139,Guyana,-0.91
+140,Sierra Leone,-0.91
+141,Central African Republic,-0.91
+142,Nigeria,-0.91
+143,Benin,-0.91
+144,Guinea,-0.92
+145,Qatar,-0.92
+146,Nicaragua,-0.92
+147,Suriname,-0.92
+148,India,-0.92
+149,Pakistan,-0.93
+150,Iraq,-0.93
+151,Oman,-0.94
+152,United Arab Emirates,-0.94
+153,Saudi Arabia,-0.96
+154,Kuwait,-0.96
