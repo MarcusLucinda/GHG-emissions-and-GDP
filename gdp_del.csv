@@ -1,0 +1,53 @@
+index,Country,GDP
+0,Finland,5.16
+1,Iceland,5.13
+3,Estonia,2.59
+4,Norway,2.49
+5,Canada,2.47
+6,Sweden,2.1
+8,Latvia,1.9
+11,Lithuania,1.57
+13,Switzerland,1.21
+14,Austria,1.03
+15,Czech Republic,1.02
+19,Denmark,0.86
+22,Germany,0.63
+23,Luxembourg,0.55
+26,Ireland,0.47
+27,Spain,0.46
+29,United Kingdom,0.42
+30,Chile,0.32
+31,Netherlands,0.31
+33,Belgium,0.3
+36,France,0.1
+40,New Zealand,-0.09
+44,World,-0.2
+46,Italy,-0.27
+48,Japan,-0.35
+50,United States,-0.36
+52,Portugal,-0.41
+55,Greece,-0.51
+56,Peru,-0.51
+57,Argentina,-0.53
+58,Australia,-0.53
+59,Uruguay,-0.55
+66,Ecuador,-0.69
+67,Bolivia,-0.69
+72,Mexico,-0.73
+75,Cyprus,-0.74
+80,Colombia,-0.77
+82,Costa Rica,-0.79
+86,Trinidad and Tobago,-0.82
+87,Israel,-0.82
+88,Guatemala,-0.83
+91,Bahamas,-0.83
+92,Brazil,-0.83
+94,Paraguay,-0.84
+99,Cuba,-0.84
+100,Haiti,-0.85
+103,Panama,-0.85
+106,El Salvador,-0.85
+118,Malaysia,-0.87
+124,Honduras,-0.88
+137,Venezuela,-0.91
+147,Suriname,-0.92

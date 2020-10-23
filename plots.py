@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import numpy as np
 '''
 ghg = pd.read_csv('ghg_emissions.csv')
 countries = ghg.Country.to_list()
@@ -40,27 +41,28 @@ plt.gca().invert_xaxis()
 plt.show()
 '''
 
-north = pd.read_csv('developed.csv')
-latin = pd.read_csv('latin.csv')
-north = north.drop('index', 1)
-north = north.set_index('Country')
-latin = latin.drop('index', 1)
-latin = latin.set_index('Country')
-#countries_north = north.Country.to_list()
-#countries_latin = latin.Country.to_list()
-emissions_latin = latin.Emissions.to_list()
-emissions_north = north.Emissions.to_list()
-print (north)
+'''
+comp = pd.read_csv('dev_and_latin.csv')
+del comp['index']
+comp.set_index('Country', inplace=True)
 
+plt.figure(figsize=(15, 25))
+plt.subplot()
+plt.barh(comp.index, comp.Emissions, align="center")
+plt.gca().invert_yaxis()
+plt.tick_params(axis='y', labelsize=6)
+plt.show()
+'''
 
-plt.figure(figsize=(10, 12))
-#plt.subplot()
-plt.bar(emissions_north, north.index.values, color='r')
-plt.bar(emissions_latin, latin.index.values, color='g')
+dev = pd.read_csv('gdp_comp_dev.csv', index_col='Country')
+latin = pd.read_csv('gdp_comp_latin.csv', index_col='Country')
+df1 = pd.read_csv('gdp_comp.csv')
+plt.figure(figsize=(15, 25))
+plt.subplot()
+plt.scatter(dev.Emissions, dev.GDP)
+plt.scatter(latin.Emissions, latin.GDP)
+z = np.polyfit(df1.Emissions, df1.GDP, 1)
+p = np.poly1d(z)
+plt.plot(df1.Emissions, p(df1.Emissions), "r")
 plt.show()
 
-'''
-df = pd.DataFrame({'a' : [2,6,2,4,5,3,7]})
-t1 = df[df['a']<5]
-t2 = df[df['a']>=5]
-'''
