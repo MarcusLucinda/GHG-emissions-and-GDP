@@ -19,6 +19,7 @@ gdp = gdp.reset_index(drop=True)
 print(gdp)
 gdp.to_csv(file_name, sep=',')
 '''
+'''
 file_name = './/gdp_comp.csv'
 df1 = pd.read_csv('dev_and_latin.csv', sep=',', index_col='Country')
 del df1['index']
@@ -26,3 +27,14 @@ df2 = pd.read_csv('gdp_del.csv', sep=',', index_col='Country')
 del df2['index']
 df3 = (df1.join(df2, how='outer'))
 df3.to_csv(file_name, sep=',')
+'''
+
+file_name = './/to_map.csv'
+df1 = pd.read_csv('gdp.csv', sep=',', index_col='Country')
+del df1['index']
+df2 = pd.read_csv('ghg_emissions.csv', sep=',', index_col='Country')
+del df2['index']
+df3 = (df1.join(df2, how='outer'))
+df3.to_csv(file_name, sep=',')
+
+print(df3)

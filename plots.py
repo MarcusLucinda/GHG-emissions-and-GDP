@@ -53,7 +53,7 @@ plt.gca().invert_yaxis()
 plt.tick_params(axis='y', labelsize=6)
 plt.show()
 '''
-
+'''
 dev = pd.read_csv('gdp_comp_dev.csv', index_col='Country')
 latin = pd.read_csv('gdp_comp_latin.csv', index_col='Country')
 df1 = pd.read_csv('gdp_comp.csv')
@@ -65,4 +65,4 @@ z = np.polyfit(df1.Emissions, df1.GDP, 1)
 p = np.poly1d(z)
 plt.plot(df1.Emissions, p(df1.Emissions), "r")
 plt.show()
-
+'''
