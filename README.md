@@ -30,4 +30,17 @@ All source where the data got scraped are listed at the end.
 
 ### Carbon dioxide emission
 
+Countries that emitted most CO2 in 2016
 ![](/graphics/maiores_emissoes.png)
+
+
+
+Emissions comparison between developed countries (blue) and Latin America (orange)
+![](/graphics/comparacao.png)
+
+
+
+Emissions map of 2016
+![](/graphics/mapa2.png)
+
+
