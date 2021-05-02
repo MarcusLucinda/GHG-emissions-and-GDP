@@ -184,3 +184,15 @@ p = np.poly1d(z)
 plt.plot(df1.Emissions, p(df1.Emissions), "r")
 ```
 ![](/graphics/comparacaoe.png)
+
+
+
+## Conclusion
+
+The countries geographic positions have large influence in this projection, nothern hemisphere countries greatly contribute for climate change and will suffer less impacts. Tropical zone and southern hemisphere countries, especially Latoin America and Africa, will be disproportionately harmed, since they have small contributions on emissions but will suffer the biggest econimic impacts. The middle east have high emission rates and will suffer severe impacts.
+
+
+## References
+
+BURKE, M.; HSIANG, S.; MIGUEL, E. Global non-linear effect of temperature on economic production. Nature, v. 527. p. 235-239, 2015.
+OUR WORLD IN DATA. Are consumption-based CO₂ per capita emissions above or below the global average?
