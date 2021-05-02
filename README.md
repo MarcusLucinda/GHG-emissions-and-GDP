@@ -30,4 +30,4 @@ All source where the data got scraped are listed at the end.
 
 ### Carbon dioxide emission
 
-![plot](https://github.com/MarcusLucinda/GHG-emissions-and-GDP/tree/main/graphics/maiores_emissoes.png?raw=true)
+![](/graphics/maiores_emissoes.png)
